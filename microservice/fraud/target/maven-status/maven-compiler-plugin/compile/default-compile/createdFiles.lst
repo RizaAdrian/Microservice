@@ -1,0 +1,7 @@
+com\microservice\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\microservice\fraud\FraudController.class
+com\microservice\fraud\FraudCheckHistoryRepository.class
+com\microservice\fraud\FraudCheckService.class
+com\microservice\fraud\FraudApplication.class
+com\microservice\fraud\FraudCheckHistory.class
+com\microservice\fraud\FraudCheckResponse.class
